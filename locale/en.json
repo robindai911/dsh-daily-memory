@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Daily memory",
+    "description": "Reviews past sessions, distils durable notes into a local markdown memory, and retrieves only the few entries a question needs."
+  }
+}
